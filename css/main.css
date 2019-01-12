@@ -1631,7 +1631,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .header-nav-wrap {
     font-family: "montserrat-bold", sans-serif;
-    font-size: 13px;
+    font-size: 15px;
     text-transform: uppercase;
     letter-spacing: .25rem;
     position: absolute;
@@ -1655,7 +1655,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .header-nav li a {
     display: block;
     line-height: 72px;
-    color: #1f172b;
+    color: #d7c7f0;
 }
 
 .header-nav li.current a {
@@ -1798,7 +1798,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-content h1 {
     font-family: "librebaskerville-bold", serif;
-    color: #9d74db;
+    color: #d7c7f0;
     font-size: 6rem;
     line-height: 1.35;
     margin-top: 0;
