@@ -2551,6 +2551,12 @@ html.no-csstransitions .home-content__main {
     transform: translate3d(0, 0, 0);
 }
 
+/* #id & Sponsors css */
+
+.img-responsive{
+    height: 50%;
+    width: 50%;
+}
 
 /* ------------------------------------------------------------------- 
  * responsive:
