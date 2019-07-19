@@ -1631,12 +1631,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .header-nav-wrap {
     font-family: "montserrat-bold", sans-serif;
-    font-size: 15px;
+    font-size: 13px;
     text-transform: uppercase;
     letter-spacing: .25rem;
     position: absolute;
     top: 9px;
-    right: 50px;
+    right: 130px;
 }
 
 .header-nav {
